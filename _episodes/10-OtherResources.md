@@ -31,7 +31,7 @@ as well as several videos explaining
 [Genome-resolved metagenomics: key concepts in reconstructing genomes from metagenomes](https://youtu.be/RjNdHGK4ruo). 
 Finally, for Spanish speakers, the ISME course is a detailed tutorial 
 for 16s metabarcoding 
-[ISME Análisis de diversidad](http://www.castrolab.org/isme/biodiversity/biodiversity.html).   
+[ISME Análisis de diversidad](https://www.castrolab.org/post/bienvenidos-al-curso-precongreso-isme-la-2019/).   
 
 The book [Microbiomes](https://link.springer.com/book/10.1007/978-3-030-65317-0) shares a contemporary concept of microbiomes. Books 
 [Statistical analysis of microbiome data](https://link.springer.com/book/10.1007/978-3-030-73351-3) 
